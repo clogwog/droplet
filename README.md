@@ -1,5 +1,6 @@
 # Plasma Clock #
 
-A simple but pleasant clock with a plasma background and the time in negative space on top of that.
+A simple but pleasant clock with droplets falling, inspired by [phobons example](https://x.com/thenoumenon/status/1976654205327945855?s=51).
+Hardware-copying-software-emulating-harware
 
 ![plasma background clock](./plasmaclock.gif)
